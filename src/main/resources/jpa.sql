@@ -3,3 +3,6 @@ VALUES(10001, 'JPA Course');
 
 INSERT INTO COURSE (ID,  NAME ) 
 VALUES(10002, 'Java Course');
+
+INSERT INTO COURSE (ID,  NAME ) 
+VALUES(10004, 'Junit Course');
